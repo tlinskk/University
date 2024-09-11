@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр2.ООП\Лр2.ООП\bin\Debug\Лр2.ООП.exe.config
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр2.ООП\Лр2.ООП\bin\Debug\Лр2.ООП.exe
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр2.ООП\Лр2.ООП\bin\Debug\Лр2.ООП.pdb
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр2.ООП\Лр2.ООП\obj\Debug\Лр2.ООП.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр2.ООП\Лр2.ООП\obj\Debug\Лр2.ООП.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр2.ООП\Лр2.ООП\obj\Debug\Лр2.ООП.exe
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр2.ООП\Лр2.ООП\obj\Debug\Лр2.ООП.pdb
