@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\bin\Debug\net8.0\Лр4.ООП.exe
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\bin\Debug\net8.0\Лр4.ООП.deps.json
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\bin\Debug\net8.0\Лр4.ООП.runtimeconfig.json
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\bin\Debug\net8.0\Лр4.ООП.dll
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\bin\Debug\net8.0\Лр4.ООП.pdb
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\Лр4.ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\Лр4.ООП.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\Лр4.ООП.AssemblyInfo.cs
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\Лр4.ООП.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\Лр4.ООП.dll
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\refint\Лр4.ООП.dll
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\Лр4.ООП.pdb
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\Лр4.ООП.genruntimeconfig.cache
+C:\Users\User\source\repos\Лр4.ООП\Лр4.ООП\obj\Debug\net8.0\ref\Лр4.ООП.dll
