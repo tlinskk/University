@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\Lr5.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\Lr5.OOP.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\Lr5.OOP.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\Lr5.OOP.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\bin\Debug\net8.0\Lr5.OOP.exe
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\bin\Debug\net8.0\Lr5.OOP.deps.json
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\bin\Debug\net8.0\Lr5.OOP.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\bin\Debug\net8.0\Lr5.OOP.dll
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\bin\Debug\net8.0\Lr5.OOP.pdb
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\Lr5.OOP.dll
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\refint\Lr5.OOP.dll
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\Lr5.OOP.pdb
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\Lr5.OOP.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Lr5.OOP\Lr5.OOP\obj\Debug\net8.0\ref\Lr5.OOP.dll
