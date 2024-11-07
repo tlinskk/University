@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\bin\Debug\net8.0\Лр6.ООП.exe
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\bin\Debug\net8.0\Лр6.ООП.deps.json
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\bin\Debug\net8.0\Лр6.ООП.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\bin\Debug\net8.0\Лр6.ООП.dll
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\bin\Debug\net8.0\Лр6.ООП.pdb
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\Лр6.ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\Лр6.ООП.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\Лр6.ООП.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\Лр6.ООП.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\Лр6.ООП.dll
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\refint\Лр6.ООП.dll
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\Лр6.ООП.pdb
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\Лр6.ООП.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Лр6.ООП\Лр6.ООП\obj\Debug\net8.0\ref\Лр6.ООП.dll
