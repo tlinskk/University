@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\bin\Debug\Pr6.3.OOP.exe.config
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\bin\Debug\Pr6.3.OOP.exe
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\bin\Debug\Pr6.3.OOP.pdb
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\obj\Debug\Pr6.3.OOP.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\obj\Debug\Pr6._3.OOP.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\obj\Debug\Pr6._3.OOP.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\obj\Debug\Pr6.3.OOP.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\obj\Debug\Pr6.3.OOP.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\obj\Debug\Pr6.3.OOP.exe
+C:\Users\User\OneDrive\Рабочий стол\OOP\Pr6.3.OOP\Pr6.3.OOP\obj\Debug\Pr6.3.OOP.pdb
